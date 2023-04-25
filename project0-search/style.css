@@ -71,3 +71,14 @@ a:link {
   cursor: pointer;
   user-select: none;
 }
+
+.h2-advanced{
+  color: #d93025;
+  font-size: 20px;
+  margin: 25px 35px;
+}
+
+.line{
+  border-bottom: 1px solid #ebebeb;
+}
+
